@@ -1,0 +1,12 @@
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\GameStore_WebForms.dll.config
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\GameStore_WebForms.dll
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\GameStore_WebForms.pdb
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\EntityFramework.dll
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\EntityFramework.SqlServer.dll
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\EntityFramework.xml
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\EntityFramework.SqlServer.xml
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\obj\Debug\GameStore_WebForms.csproj.CoreCompileInputs.cache
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\obj\Debug\GameStore_WebForms.dll
+C:\C#Tutorial\GameStore_WebForms\GameStore_WebForms\obj\Debug\GameStore_WebForms.pdb
